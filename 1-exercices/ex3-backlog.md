@@ -2,11 +2,7 @@
 
 ## Ressources
 
-<<<<<<< HEAD
 - Utilisez ***Jira***.
-=======
-- Utilisez le logiciel ***Jira***.
->>>>>>> feature/ex1
 
 ## Énoncé
 
