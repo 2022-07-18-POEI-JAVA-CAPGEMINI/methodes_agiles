@@ -13,18 +13,20 @@ Pour le client GTM Bank, nouvel acteur dans le domaine bancaire, le *Product Own
 
 A partir des informations ci-dessus et des informations complémentaires qui peuvent être apporté par votre *product owner* en communiquant directement avec le client et les utilisateurs finaux (rôles joués par le formateur).
 
-1. Remplissez votre *Product Backlog* avec des *US*.
-2. Sélectionnez des *US* candidates pour le premier sprint:
+1. Remplissez votre *Product Backlog* avec des *US* (Se limiter à 5 *US* au maximum).
+2. Sélectionnez 2 *US* candidates pour le premier sprint qui apportent de la valeur immédiatement :
 - *US* affinés
 - *US* priorisés
 - *US* estimés
 - *US* avec des critères d'acceptation
 
 ## Partie 2 : travailler à effectuer selon son rôle dans l'équipe
+
 ### Travailler à réaliser par l'équipe de dev
 
-1. Assignez les *US* aux développeurs (seul ou en pair programming)
-2. Les développeurs décrivent les solutions de manière textuelle.
+1. Votez la complexité des *US* du sprint backlog.
+2. Assignez les *US* aux développeurs (seul ou en pair programming).
+2. Les développeurs décrivent les solutions (description textuelle).
 - Soumettent une validation technique du texte au tech lead (rôle joué par le formateur).
 - Soumettent une validation fonctionnelle du texte au *Product Owner*.
 
@@ -35,7 +37,7 @@ Lorsque la validation technique ou fonctionnelle n'a pas été accepté par le f
 1. Contactez le client (rôle joué par le formateur), ce dernier exprimera des nouveaux besoins.
 2. A partir de celles-ci, analysez et ajoutez des nouveaux US dans votre *product backlog*.
 3. Réorganisez votre *product backlog* en conséquence.
-4. Sélectionnez 2 à 3 *US* à proposer à l'équipe de dev pour le prochain *sprint*.
+4. Sélectionnez 2 *US* à proposer à l'équipe de dev pour le prochain *sprint*.
 
 ### Travailler à réaliser par le *SCRUM Master*
 
