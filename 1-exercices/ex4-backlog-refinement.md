@@ -3,7 +3,7 @@
 ## Ressources
 
 - Utilisez ***Jira***.
-- Prendre exemple sur le *User Story 1* ci-dessous pour la réalisation des tâches demandées.
+- Prendre exemple sur le *User Story 1* ci-dessous pour décrire ces derniers.
 
 ## Énoncé
 
@@ -15,21 +15,27 @@
 
 - Assistance durant l'achat.
 
-#### Description US
+#### Aide rédaction des *US*
 
-1. En tant qu'utilisateur, je souhaite contacter l'entreprise lorsque j'ai besoin d'un renseignement sur un produit cosmétique afin d'avoir des informations personnalisées sur l'application du produit sur ma peau.
+- Utilisez la formule suivante :
+`En tant que {utilisateur}, je veux un {un objectif/besoin} afin que {résultat}`
+
+*Exemples :* 
+- *En tant qu'administrateur du site, je veux avoir un back-office pour traiter les commandes des clients.*
+- *En tant qu'utilisateur, je veux avoir des facilités de paiement dans le but d'effectuer mes achats plus rapidement.*
+- *En tant qu'utilisateur, je souhaite contacter l'entreprise lorsque j'ai besoin d'un renseignement sur un produit cosmétique afin d'avoir des informations personnalisées sur l'application du produit sur ma peau.*
 
 #### Spécifications
 
 - Proposer la possibilité de contacter directement un conseiller avec un outil.
 - Proposer à l'utilisateur d'être rappelé par un conseiller.
-- Attention dépendant de la page produit.
+- *Dépendance fonctionnelle avec la page produit*.
 
 #### Critères d'acceptation
 
-- [ ] Réponse instantanée (inférieur à 1 min)
-- [ ] Réponse adaptée à la question du client
-- [ ] Proposer l'interaction avec un conseiller lorsque la question est très spécifique
+- [ ] Réponse instantanée (inférieur à 1 min).
+- [ ] Réponse adaptée à la question du client.
+- [ ] Proposer l'interaction avec un conseiller lorsque la question est très spécifique.
 
 ## Correction
 

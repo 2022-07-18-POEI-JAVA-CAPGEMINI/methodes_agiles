@@ -3,6 +3,7 @@
 ## Ressources
 
 - Utilisez ***Jira***.
+- Utilisez l'extension *story mapping*.
 
 ## Énoncé
 
@@ -16,15 +17,6 @@ L'équipe SCRUM travaille pour un client spécialisé dans la vente en ligne des
 
 1. À partir des besoins ci-dessus, dégagez des *users stories (US)* pour construire votre *Product Backlog*.
 2. À l'aide de l'extension *Story mapping*, regroupez les *US* dans les epics dédiées (Epic est une macro-fonctionnalité qui regroupe plusieurs *US* (tickets sur *Jira*)).
-
-#### Aide rédaction et création des *US*
-
-- Utilisez la formule suivante :
-`En tant que {utilisateur}, je veux un {un objectif/besoin} afin que {résultat}`
-
-Exemples : 
-- En tant qu'administrateur du site, je veux avoir un back-office pour traiter les commandes des clients.
-- En tant qu'utilisateur, je veux avoir des facilités de paiement dans le but d'effectuer mes achats plus rapidement.
 
 ## Correction
 

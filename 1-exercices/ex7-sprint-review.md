@@ -1,14 +1,13 @@
 # Exercice 7 : sprint review
 
-## Ressources
-
-- Utilisez ***Jira***
-
 ## Énoncé
 
-Vous avez terminé le *sprint*, l'équipe a été conviée au rendez-vous pour réaliser le *sprint review* en présence du client et des autres équipes qui travaillent sur le même projet.
+Vous avez terminé le *sprint*, l'équipe a été conviée au rendez-vous pour réaliser le *sprint review* en présence du client et du management.
 
-Chaque membre de l'équipe doit :
-1. Présenter un US qui lui a été affecté ;
-2. Imaginer les difficultés rencontrées durant l'implémentation du US ;
-3. Imaginer les solutions apportées pour surmonter ses difficultés (par exemple, aide de l'équipe, aide du *SCRUM Master* etc.)
+1. Le *SCRUM Master* animera la réunion du *sprint review*.
+2. Le Product Owner présentera *l'objectif du sprint*.
+3. Chaque membre de l'équipe dev doit :
+- Présenter l' *US* qui lui a été affecté et le livrable (texte technique détaillé réalisé dans l'exercice précédent).
+
+15-20 min de préparation.
+5-7 min de passage par groupe.
