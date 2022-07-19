@@ -13,8 +13,8 @@ Pour le client GTM Bank, nouvel acteur dans le domaine bancaire, le *Product Own
 
 A partir des informations ci-dessus et des informations complémentaires qui peuvent être apporté par votre *product owner* en communiquant directement avec le client et les utilisateurs finaux (rôles joués par le formateur).
 
-1. Remplissez votre *Product Backlog* avec des *US* (Se limiter à 5 *US* au maximum).
-2. Sélectionnez 2 *US* candidates pour le premier sprint qui apportent de la valeur immédiatement :
+1. Remplissez votre *Product Backlog* avec des *US* (Se limiter à 5 *Epics* au maximum, commencer à prioriser lorsque vous avez une dizaine des *us*).
+2. Sélectionnez 2 *US* candidates pour le premier sprint qui apportent de la valeur immédiatement (qui ont le plus de valeur pour les utilisateurs finaux) :
 - *US* affinés
 - *US* priorisés
 - *US* estimés
