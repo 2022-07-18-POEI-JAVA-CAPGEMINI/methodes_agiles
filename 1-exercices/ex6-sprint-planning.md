@@ -13,9 +13,11 @@
 
 ### Uniquement pour les développeurs
 
-3. L'équipe de développement, pour chaque *US*, assigne un développeur ou un binôme pour travailler en *pair-programming* sur Jira.
+3. L'équipe de développement, pour chaque *US* :
+- Vote à l'aide du Planning Poker
+- Assigne un développeur ou un binôme pour travailler en *pair-programming* sur Jira.
 
-4. Chaque développeur ou binôme de développeur, décrit le travail à réaliser sur *Us* en apportant des précisions techniques.
+4. Chaque développeur ou binôme de développeur, décrit le travail à réaliser sur *Us* en apportant des précisions techniques de manière superficielle.
 
 ### Uniquement pour le Product Owner
 
