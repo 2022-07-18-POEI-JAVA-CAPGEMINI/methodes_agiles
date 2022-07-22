@@ -7,7 +7,7 @@
 
 ## Énoncé
 
-À partir de votre *Product Backlog* (exercice 2) : 
+À partir de votre *Product Backlog* (exercice 3) : 
 1. Sélectionnez 3 US et apportez les précisions sur ces derniers.
 2. Définissez des critères d'acceptation pour chaque *US* sélectionné.
 
